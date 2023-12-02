@@ -12,7 +12,7 @@ class testing {
         String regexVar = "[-+]?\\d*\\.?\\d+";
 
         if (var.matches(regexVar)) {
-            System.out.println("valid floating number");
+            System.out.println("valid floating number prefect");
         } else {
             System.out.println("not valid floating number");
         }
