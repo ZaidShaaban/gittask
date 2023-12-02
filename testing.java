@@ -14,7 +14,7 @@ class testing {
         if (var.matches(regexVar)) {
             System.out.println("valid floating number");
         } else {
-            System.out.println("unvalid floating number");
+            System.out.println("not valid floating number");
         }
 
     }
